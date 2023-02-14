@@ -8,7 +8,7 @@ width: 100%;
 display: flex;
 align-items: center;
 justify-content: center;
-background-color: teal;
+background-color: rgb(155, 16, 16);
 
 }
 
@@ -22,5 +22,4 @@ background-color: teal;
 .fa:hover{
     cursor: pointer;
     color: white;
-    font-size: 3rem;
 }
